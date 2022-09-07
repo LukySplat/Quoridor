@@ -7,7 +7,7 @@
 
 <h1>Run the program</h1>
 <code>./Petrale_Luca.py</code>
-
+<h1></h1>
 <h3 align="center">The game includes a save and it is possible to play against an AI.</h3>
 
 <h4 align="center">In-game commands.</h4>
