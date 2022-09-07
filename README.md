@@ -12,9 +12,9 @@
 
 <h4 align="center">In-game commands.</h4>
 <h5>- s: Move forward (Player 1) / Move back (Player 2)</h5>
-- z: Move back (Player 1) / Move forward (Player 2)
-- d: Right
-- q: Left
-- w: Walls
-- u: Save game
-- p: Pause
+<h5>- z: Move back (Player 1) / Move forward (Player 2)</h5>
+<h5>- d: Right</h5>
+<h5>- q: Left</h5>
+<h5>- w: Walls</h5>
+<h5>- u: Save game</h5>
+<h5>- p: Pause</h5>
